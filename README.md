@@ -1,7 +1,7 @@
 # menu-flexbox
 Menu flexbox definitivo <br>
 [x] Criar estrutura do HTML <br>
-'<nav>
+<nav>
     <a href="#" class="logo">leslieb<span>-dev</span></a>
 
     <ul>
@@ -12,7 +12,7 @@ Menu flexbox definitivo <br>
     <!-- ul -->
 
     <a href="#" class="button">contato</a>
-'</nav>
+</nav>
 <!-- nav -->
 
 <br><br>
