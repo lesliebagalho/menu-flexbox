@@ -21,3 +21,39 @@ a{
     text-decoration: none;
 }
 
+nav{
+    background: var(--nav-bg-color);
+    color: var(--nav-text-color);
+    height: 6rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem;
+}
+
+.logo{
+    color: var(--nav-text-color);
+    font-weight: 600;
+}
+
+.logo span{
+    font-size: 2rem;
+    font-weight: 600;
+    color: var(--button-text-color);
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 3rem;
+}
+
+.button{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 1.6rem;
+    background: var(--button-bg-color);
+    color: var(--button-text-color);
+    border-radius: 5em;
+}
